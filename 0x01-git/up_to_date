@@ -1,3 +1,4 @@
 echo
 touch up_to_date
 touch 
+git pull
